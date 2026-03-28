@@ -21,3 +21,15 @@ Nota: Por limitações da versão gratuita da API, o programa foi aplicado apena
 - **Apache ECharts** (via `echarts-for-react`)
 - **Embla Carousel** (via `embla-carousel-react`)
 - **Axios** (requisições à API gratuita thesportsdb)
+
+```bash
+# Clone o repositório
+
+git clone https://github.com/disorcle/BSAdashboard
+cd BSAdashboard
+
+# Instale as dependências
+npm install
+
+# Rode o servidor de desenvolvimento
+npm run dev
