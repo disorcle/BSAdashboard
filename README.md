@@ -22,6 +22,8 @@ Nota: Por limitações da versão gratuita da API, o programa foi aplicado apena
 - **Embla Carousel** (via `embla-carousel-react`)
 - **Axios** (requisições à API gratuita thesportsdb)
 
+## Como rodar localmente
+
 ```bash
 # Clone o repositório
 
